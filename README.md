@@ -29,7 +29,7 @@ Check your server logs
 ## Example
 General SSRF 
 * ```SSRFuck -w path/to/file.txt -oD `pwd` -t 1 -d domainname.txt -s SERVERNAME```  
-where SERVERNAME = your bxssrf+ngrok, burpcollaborator etc
+where servername = your bxssrf+ngrok, burpcollaborator etc
 
 ## Caveats
 1. None i guess.
